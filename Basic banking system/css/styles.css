@@ -1,0 +1,11 @@
+*{font-family: 'Montserrat', sans-serif;}
+
+.imgclass{
+  padding: 0!important;
+}
+
+footer p{
+  text-align: center;
+	background-color:#F0F8FF;
+	letter-spacing: 0.5px;
+}
